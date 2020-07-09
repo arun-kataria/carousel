@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow_left</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Right-arrow" transform="translate(6.500000, 7.500000) scale(-1, 1) translate(-6.500000, -7.500000) translate(-1.000000, 0.000000)" fill="#24272C">
+            <g id="Group" transform="translate(0.142857, 0.142857)">
+                <polygon id="" points="9.88628571 2.31485714 5.60742857 6.57142857 9.88628571 10.828 8.57142857 12.1428571 3 6.57142857 8.57142857 1"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
